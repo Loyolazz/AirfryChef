@@ -1,6 +1,4 @@
-Claro! Aqui está um exemplo de README básico para sua API Rails:
 
-```
 # Receitas API
 
 Esta é uma API para um aplicativo de receitas. Ela foi construída usando o framework Ruby on Rails.
@@ -74,5 +72,3 @@ Você é bem-vindo(a) para contribuir com este projeto! Sinta-se à vontade para
 ## Licença
 
 Este projeto está licenciado sob a licença [MIT](https://opensource.org/licenses/MIT).
-
-```
